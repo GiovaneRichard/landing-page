@@ -2,7 +2,7 @@
 Estudo criação landing page product utilizando HTML5 CSS3 e JAVASCRIPT
 
 Prview do projeto:
-https://giovanerichard.github.io/landing-page/
+https://giovanerichard.github.io/landing-page
 
 - Visão no celular 
 
